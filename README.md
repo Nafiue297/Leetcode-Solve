@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0097-interleaving-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
 | ------- |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
