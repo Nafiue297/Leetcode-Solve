@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1189-maximum-number-of-balloons](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1971-find-if-path-exists-in-graph) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1971-find-if-path-exists-in-graph) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
