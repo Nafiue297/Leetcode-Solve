@@ -1,23 +1,56 @@
-class Solution {
+class DSU{
 public:
-void dfs(int i,vector<vector<int>>&stones,vector<bool>&vis)
+vector<int>parent,rank;
+DSU(int n)
 {
-    vis[i]=true;
-    for(int j=0;j<stones.size();j++)
+    parent.resize(n);
+    rank.resize(n,0);
+    for(int i=0;i<n;i++)parent[i]=i;
+
+}
+int Find(int x)
+{
+    if(x==parent[x])return x;
+    return parent[x]=Find(parent[x]);
+}
+void Union(int x,int y)
+{
+    int px=Find(x);
+    int py=Find(y);
+    if(px==py)return;
+    if(rank[px]>rank[py])
     {
-     if(!vis[j] and (stones[i][0]==stones[j][0] or stones[i][1]==stones[j][1]))
-     dfs(j,stones,vis);
+        parent[py]=px;
+
+    }else if(rank[px]<rank[py])
+    {
+        parent[px]=py;
+    }else
+    {
+        parent[px]=py;
+        rank[py]++;
     }
 }
+};
+class Solution {
+public:
     int removeStones(vector<vector<int>>& stones) {
         int n=stones.size();
-        vector<bool>vis(n,false);
-        int cnt=0;
+        DSU dsu(n);
         for(int i=0;i<n;i++)
         {
-         if(vis[i])continue;
-         dfs(i,stones,vis);
-         cnt++;
+            for(int j=1;j<n;j++)
+            {
+                if(stones[i][0]==stones[j][0] or stones[i][1]==stones[j][1])
+                {
+                    dsu.Union(i,j);
+                }
+            }
+        }
+        int cnt=0;
+        for(int i=0;i<dsu.parent.size();i++)
+        {
+            if(dsu.parent[i]==i)cnt++;
         }
         return n-cnt;
     }
