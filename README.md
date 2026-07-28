@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0042-trapping-rain-water) |
 | [0239-sliding-window-maximum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0410-split-array-largest-sum) |
+| [0695-max-area-of-island](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0990-satisfiability-of-equality-equations) |
 | [1202-smallest-string-with-swaps](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1202-smallest-string-with-swaps) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0785-is-graph-bipartite) |
 | [1202-smallest-string-with-swaps](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1202-smallest-string-with-swaps) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0695-max-area-of-island) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0947-most-stones-removed-with-same-row-or-column) |
