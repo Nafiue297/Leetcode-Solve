@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0008-string-to-integer-atoi) |
 | [0097-interleaving-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0151-reverse-words-in-a-string) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
