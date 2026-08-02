@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0410-split-array-largest-sum) |
 | [0695-max-area-of-island](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0410-split-array-largest-sum) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0876-middle-of-the-linked-list) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 ## Hash Table
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0707-design-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
