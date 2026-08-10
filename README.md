@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0202-happy-number) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0707-design-linked-list) |
