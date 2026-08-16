@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0455-assign-cookies) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1833-maximum-ice-cream-bars) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2027-minimum-moves-to-convert-string) |
 | [2029-stone-game-ix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2029-stone-game-ix) |
 ## String
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2027-minimum-moves-to-convert-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2785-sort-vowels-in-a-string) |
