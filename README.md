@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3614-process-string-with-special-operations-ii) |
 ## Sorting
 |  |
