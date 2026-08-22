@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1202-smallest-string-with-swaps](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1202-smallest-string-with-swaps) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -335,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2029-stone-game-ix) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
