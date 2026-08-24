@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1664-ways-to-make-a-fair-array) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1833-maximum-ice-cream-bars) |
+| [1872-stone-game-viii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1872-stone-game-viii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2029-stone-game-ix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1140-stone-game-ii) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1664-ways-to-make-a-fair-array) |
+| [1872-stone-game-viii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1872-stone-game-viii) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Monotonic Queue
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1140-stone-game-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1872-stone-game-viii) |
 ## Greedy
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1563-stone-game-v](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -328,12 +332,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -344,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2029-stone-game-ix) |
 ## Dijkstra's Algorithm
 |  |
