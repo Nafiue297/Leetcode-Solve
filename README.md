@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0042-trapping-rain-water) |
+| [0068-text-justification](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0287-find-the-duplicate-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0008-string-to-integer-atoi) |
+| [0068-text-justification](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0068-text-justification) |
 | [0097-interleaving-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0151-reverse-words-in-a-string) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0068-text-justification) |
 | [2390-removing-stars-from-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3614-process-string-with-special-operations-ii) |
