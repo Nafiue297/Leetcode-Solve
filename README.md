@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
 | [0792-number-of-matching-subsequences](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0792-number-of-matching-subsequences) |
+| [0835-image-overlap](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0835-image-overlap) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0990-satisfiability-of-equality-equations) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0695-max-area-of-island) |
+| [0835-image-overlap](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0835-image-overlap) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2812-find-the-safest-path-in-a-grid) |
