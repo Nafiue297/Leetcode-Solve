@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0455-assign-cookies) |
 | [0695-max-area-of-island](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
+| [0792-number-of-matching-subsequences](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0792-number-of-matching-subsequences) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0990-satisfiability-of-equality-equations) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0410-split-array-largest-sum) |
+| [0792-number-of-matching-subsequences](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0792-number-of-matching-subsequences) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0416-partition-equal-subset-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0792-number-of-matching-subsequences](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0792-number-of-matching-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1563-stone-game-v) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0151-reverse-words-in-a-string) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
+| [0792-number-of-matching-subsequences](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0792-number-of-matching-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0990-satisfiability-of-equality-equations) |
 | [1189-maximum-number-of-balloons](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1189-maximum-number-of-balloons) |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0202-happy-number) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
+| [0792-number-of-matching-subsequences](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0792-number-of-matching-subsequences) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1189-maximum-number-of-balloons](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1189-maximum-number-of-balloons) |
 | [1202-smallest-string-with-swaps](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1202-smallest-string-with-swaps) |
@@ -206,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
+| [0792-number-of-matching-subsequences](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0792-number-of-matching-subsequences) |
 | [1202-smallest-string-with-swaps](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1202-smallest-string-with-swaps) |
 | [1288-remove-covered-intervals](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1331-rank-transform-of-an-array) |
@@ -421,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Trie
+|  |
+| ------- |
+| [0792-number-of-matching-subsequences](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0792-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
