@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1927-sum-game) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2027-minimum-moves-to-convert-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1189-maximum-number-of-balloons) |
 | [1202-smallest-string-with-swaps](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1202-smallest-string-with-swaps) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1927-sum-game](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1202-smallest-string-with-swaps) |
 | [1288-remove-covered-intervals](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1331-rank-transform-of-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1833-maximum-ice-cream-bars) |
 | [2785-sort-vowels-in-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2785-sort-vowels-in-a-string) |
