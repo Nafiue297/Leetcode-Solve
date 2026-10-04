@@ -1,6 +1,6 @@
 class Solution {
 public:
-bool dfs(vector<vector<int>>&adj, int i, vector<bool>&vis, vector<bool>&ind)
+bool dfs(unordered_map<int,vector<int>>&adj, int i, vector<bool>&vis, vector<bool>&ind)
 {
     vis[i]=true;
     ind[i]=true;
@@ -14,7 +14,7 @@ bool dfs(vector<vector<int>>&adj, int i, vector<bool>&vis, vector<bool>&ind)
 }
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int n = graph.size();
-        vector<vector<int>>adj(n);
+        unordered_map<int,vector<int>>adj;
         for(int i=0; i<n; i++)
         {
             for(auto u:graph[i])adj[i].push_back(u);
