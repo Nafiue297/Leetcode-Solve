@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0042-trapping-rain-water) |
 | [0068-text-justification](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0128-longest-consecutive-sequence) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0151-reverse-words-in-a-string) |
