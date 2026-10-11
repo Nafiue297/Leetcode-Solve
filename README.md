@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0042-trapping-rain-water) |
 | [0068-text-justification](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0068-text-justification) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0678-valid-parenthesis-string) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0141-linked-list-cycle) |
