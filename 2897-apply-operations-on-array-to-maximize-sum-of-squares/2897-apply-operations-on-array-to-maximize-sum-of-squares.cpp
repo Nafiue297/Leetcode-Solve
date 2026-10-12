@@ -25,7 +25,7 @@ public:
             }
 
             tmp %= mod;
-            res = (res + (tmp * tmp) % mod) % mod;
+            res = (res+(tmp * tmp) % mod) % mod;
         }
 
         return res;
