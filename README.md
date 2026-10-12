@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0008-string-to-integer-atoi) |
 | [0068-text-justification](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0068-text-justification) |
 | [0097-interleaving-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0097-interleaving-string) |
