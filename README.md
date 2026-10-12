@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2029-stone-game-ix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0287-find-the-duplicate-number) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1386-cinema-seat-allocation](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
