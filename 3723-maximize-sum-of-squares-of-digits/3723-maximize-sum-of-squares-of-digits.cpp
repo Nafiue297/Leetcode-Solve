@@ -1,0 +1,12 @@
+class Solution {
+public:
+    string maxSumOfSquares(int num, int sum) {
+        int nine=sum/9;
+        int rem=sum%9;
+        if(sum>num*9) return "";
+        string res(nine,'9');
+        if(rem>0) res.push_back(rem+'0');
+        res.append(num-res.length(),'0');
+        return res;
+    }
+};
