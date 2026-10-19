@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0410-split-array-largest-sum) |
 | [0792-number-of-matching-subsequences](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0792-number-of-matching-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1833-maximum-ice-cream-bars) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2785-sort-vowels-in-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2785-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
