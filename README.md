@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1202-smallest-string-with-swaps](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1202-smallest-string-with-swaps) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0990-satisfiability-of-equality-equations) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1202-smallest-string-with-swaps](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1202-smallest-string-with-swaps) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0802-find-eventual-safe-states) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Linked List
 |  |
 | ------- |
@@ -555,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 <!---LeetCode Topics End-->
