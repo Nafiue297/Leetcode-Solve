@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2785-sort-vowels-in-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2785-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1971-find-if-path-exists-in-graph) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2685-count-the-number-of-complete-components) |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
