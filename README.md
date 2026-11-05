@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1202-smallest-string-with-swaps) |
 | [1288-remove-covered-intervals](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1563-stone-game-v) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0410-split-array-largest-sum) |
 | [0792-number-of-matching-subsequences](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0792-number-of-matching-subsequences) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1202-smallest-string-with-swaps) |
 | [1288-remove-covered-intervals](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1833-maximum-ice-cream-bars) |
