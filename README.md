@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1140-stone-game-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1202-smallest-string-with-swaps) |
+| [1267-count-servers-that-communicate](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1267-count-servers-that-communicate) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2029-stone-game-ix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2029-stone-game-ix) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1202-smallest-string-with-swaps](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1202-smallest-string-with-swaps) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1267-count-servers-that-communicate](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1971-find-if-path-exists-in-graph) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0990-satisfiability-of-equality-equations) |
 | [1202-smallest-string-with-swaps](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1202-smallest-string-with-swaps) |
+| [1267-count-servers-that-communicate](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0835-image-overlap) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1267-count-servers-that-communicate) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -465,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1202-smallest-string-with-swaps](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1202-smallest-string-with-swaps) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1267-count-servers-that-communicate](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
