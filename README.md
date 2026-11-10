@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0042-trapping-rain-water) |
 | [0097-interleaving-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0115-distinct-subsequences) |
+| [0279-perfect-squares](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0416-partition-equal-subset-sum) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0202-happy-number) |
+| [0279-perfect-squares](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0836-rectangle-overlap) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0684-redundant-connection) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
@@ -645,5 +649,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
