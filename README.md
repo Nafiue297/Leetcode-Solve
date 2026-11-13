@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0239-sliding-window-maximum) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0239-sliding-window-maximum) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -247,11 +251,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2390-removing-stars-from-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2390-removing-stars-from-a-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0042-trapping-rain-water) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -542,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
