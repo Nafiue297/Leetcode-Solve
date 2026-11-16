@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2027-minimum-moves-to-convert-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2785-sort-vowels-in-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2785-sort-vowels-in-a-string) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0068-text-justification) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nafiue297/Leetcode-Solve/tree/master/3498-reverse-degree-of-a-string) |
