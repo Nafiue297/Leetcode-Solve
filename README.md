@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
 | [0792-number-of-matching-subsequences](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0792-number-of-matching-subsequences) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1140-stone-game-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0202-happy-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0721-accounts-merge) |
 | [0792-number-of-matching-subsequences](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0792-number-of-matching-subsequences) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0947-most-stones-removed-with-same-row-or-column) |
