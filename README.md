@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1664-ways-to-make-a-fair-array) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1563-stone-game-v) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0707-design-linked-list) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -689,4 +693,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Nafiue297/Leetcode-Solve/tree/master/0322-coin-change) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nafiue297/Leetcode-Solve/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
